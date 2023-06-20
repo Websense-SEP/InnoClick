@@ -1,5 +1,6 @@
 .footer_container{
-    height: 6vw;
+    height: auto;
     background-color: white;
     padding:1vw;
+    text-align: center;
 }

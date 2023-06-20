@@ -8,6 +8,7 @@ body{
     color: white;
     margin-bottom: 5%;
     padding:2%;
+    align-content: center;
 }
 
 .design{
@@ -62,23 +63,12 @@ body{
     transform: scale(1.1);
 }
 
-.image {
-    border-radius: 50%;
-    background-color: white;
-    height: 25vw;
-    width: 25vw;
-    margin-left: 2vw;
-    transition: 0.2s;
-
-}
-
-.image:hover {
-    transform: scale(1.1);
+.text_container{
+    padding: 10px;
 }
 
 .read_more_button {
-    width: 10vw;
-    transition: 0.2s;
+    width: auto;
 }
 
 .read_more_button:hover{
