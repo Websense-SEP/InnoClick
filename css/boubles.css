@@ -1,0 +1,16 @@
+.bouble{
+    border-radius: 5vw;
+    background-color: white;
+    color: black;
+    margin-bottom: 5%;
+    padding:2%;
+}
+
+.image {
+    border-radius: 50%;
+    background-color: white;
+    height: 25vw;
+    width: 25vw;
+    margin-left: 2vw;
+    transition: 0.2s;
+}

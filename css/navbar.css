@@ -1,0 +1,10 @@
+.navbar{
+    background-color: white;
+    font-family: "Comic Sans MS";
+    color: #3aaa35;
+}
+
+.navbar_logo {
+    width: 4vw;
+    height: 3.5vw;
+}

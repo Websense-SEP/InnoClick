@@ -1,0 +1,94 @@
+body{
+    background-color: #7c8ba0;
+    font-family: "Comic Sans MS";
+}
+
+.bouble{
+    border-radius: 5vw;
+    color: white;
+    margin-bottom: 5%;
+    padding:2%;
+}
+
+.design{
+    background-color: #e2cf93;
+}
+
+.engeniering {
+    background-color: #8CABAD;
+}
+
+.production {
+    background-color: #2BA93B;
+}
+
+.final {
+    background-color: #9277FB;
+}
+
+.parts{
+    background-color: #839191;
+}
+
+.shipment{
+    background-color: #839191;
+}
+
+.monitoring {
+    background-color: #dde6ed;
+}
+
+.game {
+    background-color: white;
+    color: black;
+}
+
+.team {
+    background-color: #04adef;
+    color: white;
+}
+
+.play_button {
+    border-radius: 2vw;
+    position: absolute;
+    left: 45vw;
+    top: 25vw;
+    width: 10vw;
+    height: 10vw;
+    transition: 0.2s;
+}
+
+.play_button:hover {
+    transform: scale(1.1);
+}
+
+.image {
+    border-radius: 50%;
+    background-color: white;
+    height: 25vw;
+    width: 25vw;
+    margin-left: 2vw;
+    transition: 0.2s;
+
+}
+
+.image:hover {
+    transform: scale(1.1);
+}
+
+.read_more_button {
+    width: 10vw;
+    transition: 0.2s;
+}
+
+.read_more_button:hover{
+    transform: scale(1.1);
+}
+
+.left {
+    float: left;
+}
+
+.right{
+    float: right;
+}
